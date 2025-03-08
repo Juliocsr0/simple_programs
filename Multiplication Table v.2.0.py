@@ -1,9 +1,9 @@
 #Mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 
-n = int(input('Digite um número para ver sua taboada: '))
+n = int(input('\nDigite um número para ver sua taboada: '))
 for taboada in range(1, 11):
     soma = n * taboada
-    print(f'{n} x {taboada} = {soma}')
+    print(f'\n{n} x {taboada} = {soma}')
     
 #IF YOU WANT IT IN ENGLISH, just remove the #
 
