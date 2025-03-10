@@ -8,7 +8,7 @@ for par in range(2, 51, 2):
 
 #-----------------------------------------------------------------------------------------------------------------
 
-# # Create a program that displays all even numbers between 1 and 50.
+# Create a program that displays all even numbers between 1 and 50.
 
 # print(f'The even numbers between 1 and 50 are:') 
 # for par in range(2, 51, 2):
