@@ -7,7 +7,7 @@ for taboada in range(1, 11):
     
 #IF YOU WANT IT IN ENGLISH, just remove the #
 
-#------------------------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------------------
     
 # Showing the multiplication table of a number chosen by the user, but now using a for loop.
 
