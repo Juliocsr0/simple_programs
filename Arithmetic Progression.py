@@ -2,7 +2,7 @@
 
 termo = int(input('Primeiro termo: '))
 razao = int(input('Razão: '))
-decimo = termo + (10) * razao # Para receber os 10 primeiros termos.
+decimo = termo + (11 - 1) * razao 
 for c in range(termo, decimo, razao):
     print(f'{c}', end=' → ')
 print('FIM')
@@ -15,7 +15,7 @@ print('FIM')
 
 # term = int(input('First term: '))
 # difference = int(input('Common difference: '))
-# tenth = term + (11 - 1) * difference # To get the first 10 terms.
+# tenth = term + (11 - 1) * difference
 # for c in range(term, tenth, difference):
 #     print(f'{c}', end=' → ')
 # print('END')

@@ -3,7 +3,7 @@
 n = int(input('\nDigite um número para ver sua taboada: '))
 for taboada in range(1, 11):
     soma = n * taboada
-    print(f'\n{n} x {taboada} = {soma}')
+    print(f'{n} x {taboada} = {soma}')
     
 #IF YOU WANT IT IN ENGLISH, just remove the #
 
